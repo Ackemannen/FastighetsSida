@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/FastighetsSida/static/css/main.07e5a16e.css",
+    "main.js": "/FastighetsSida/static/js/main.4e0bfab7.js",
+    "static/js/453.29ffdc7a.chunk.js": "/FastighetsSida/static/js/453.29ffdc7a.chunk.js",
+    "static/media/home_background.jpg": "/FastighetsSida/static/media/home_background.f5afdc671c4572892264.jpg",
+    "static/media/featured1.jpg": "/FastighetsSida/static/media/featured1.031faefba8b401560892.jpg",
+    "static/media/ap5img1.jpg": "/FastighetsSida/static/media/ap5img1.d937535bc0078abe0be5.jpg",
+    "static/media/featured2.jpg": "/FastighetsSida/static/media/featured2.f10434881fd764a1289a.jpg",
+    "static/media/ap6img3.jpg": "/FastighetsSida/static/media/ap6img3.325c753617a12ff1a102.jpg",
+    "static/media/Future2.jpg": "/FastighetsSida/static/media/Future2.27ed4d674d3370bc8337.jpg",
+    "static/media/Future3.jpg": "/FastighetsSida/static/media/Future3.c1af7ff769d3955bc8e6.jpg",
+    "static/media/featured3.jpg": "/FastighetsSida/static/media/featured3.96b8f3c62209e7a7334e.jpg",
+    "static/media/Future1.jpg": "/FastighetsSida/static/media/Future1.5de098a4953ef7d98917.jpg",
+    "static/media/ap5img3.jpg": "/FastighetsSida/static/media/ap5img3.73e1091e3eaa49e7c67e.jpg",
+    "static/media/ap4img1.jpg": "/FastighetsSida/static/media/ap4img1.5b050166bd8dbc5ad207.jpg",
+    "static/media/ap2img1.jpg": "/FastighetsSida/static/media/ap2img1.c62e54e0e882ab8307d9.jpg",
+    "static/media/ap3img3.jpg": "/FastighetsSida/static/media/ap3img3.bce9d3a06fc2631cb847.jpg",
+    "static/media/ap5img2.jpg": "/FastighetsSida/static/media/ap5img2.a6454ae4f77d2909b5c5.jpg",
+    "static/media/ap6img1.jpg": "/FastighetsSida/static/media/ap6img1.bf1c98b343a288020ddd.jpg",
+    "static/media/ap3img1.jpg": "/FastighetsSida/static/media/ap3img1.7630d4b5ae040bf4d0ba.jpg",
+    "static/media/ap2img2.jpg": "/FastighetsSida/static/media/ap2img2.87adcba8879447867b0e.jpg",
+    "static/media/ap1img3.jpg": "/FastighetsSida/static/media/ap1img3.2fa4d962a913012a8589.jpg",
+    "static/media/ap3img2.jpg": "/FastighetsSida/static/media/ap3img2.c392f57121faec9fc5ad.jpg",
+    "static/media/ap1img1.jpg": "/FastighetsSida/static/media/ap1img1.3a4c37106693fe1cebae.jpg",
+    "static/media/ap4img3.jpg": "/FastighetsSida/static/media/ap4img3.c4cda2ba3136b20b5a84.jpg",
+    "static/media/ap2img3.jpg": "/FastighetsSida/static/media/ap2img3.bc1151961f9914f2bc23.jpg",
+    "static/media/ap4img2.jpg": "/FastighetsSida/static/media/ap4img2.8b7d0857668de4e0afaf.jpg",
+    "static/media/ap1img2.jpg": "/FastighetsSida/static/media/ap1img2.5cf8889992403872584d.jpg",
+    "static/media/ap6img2.jpg": "/FastighetsSida/static/media/ap6img2.237acac5496051c086eb.jpg",
+    "index.html": "/FastighetsSida/index.html",
+    "main.07e5a16e.css.map": "/FastighetsSida/static/css/main.07e5a16e.css.map",
+    "main.4e0bfab7.js.map": "/FastighetsSida/static/js/main.4e0bfab7.js.map",
+    "453.29ffdc7a.chunk.js.map": "/FastighetsSida/static/js/453.29ffdc7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e5a16e.css",
+    "static/js/main.4e0bfab7.js"
+  ]
+}
